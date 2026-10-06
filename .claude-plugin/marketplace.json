@@ -1,0 +1,21 @@
+{
+  "name": "fullstack-agent-skills",
+  "description": "Opinionated agent skills for production apps on Next.js, FastAPI, PostgreSQL/PostGIS, Expo, and SwiftUI.",
+  "owner": {
+    "name": "Süleyman",
+    "url": "https://github.com/suleyman"
+  },
+  "plugins": [
+    {
+      "name": "fullstack-agent-skills",
+      "source": "./",
+      "description": "Six skills: fullstack-architect, nextjs-frontend, python-fastapi, postgresql, expo-react-native, swift-ios.",
+      "version": "1.0.0",
+      "license": "MIT",
+      "homepage": "https://github.com/suleyman/fullstack-agent-skills",
+      "repository": "https://github.com/suleyman/fullstack-agent-skills",
+      "keywords": ["nextjs", "react", "fastapi", "postgresql", "postgis", "expo", "react-native", "swiftui", "architecture"],
+      "category": "development"
+    }
+  ]
+}
