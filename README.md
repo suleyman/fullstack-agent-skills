@@ -1,3 +1,5 @@
+![Full Stack Agent Skills](.github/assets/banner.jpg)
+
 # fullstack-agent-skills
 
 Opinionated agent skills for shipping production apps on Next.js, FastAPI, PostgreSQL/PostGIS, Expo, and SwiftUI.
